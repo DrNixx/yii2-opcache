@@ -1,7 +1,7 @@
 <?php
 use insolita\opcache\utils\Translator;
 
-echo \yii\bootstrap\Nav::widget([
+echo \yii\bootstrap5\Nav::widget([
     'id' => 'opcache_nav_menu',
     'options' => ['class'=>'nav nav-tabs'],
     'encodeLabels'=>false,

@@ -6,7 +6,7 @@
 namespace insolita\opcache\widgets;
 
 use yii\base\InvalidConfigException;
-use yii\bootstrap\Widget;
+use yii\bootstrap5\Widget;
 use yii\helpers\Html;
 use yii\helpers\Json;
 use yii\web\View;
